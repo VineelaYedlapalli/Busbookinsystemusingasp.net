@@ -1,0 +1,7 @@
+(1)visual studio code: version 2019.
+(2)install .net and c# frameworks in vscode.
+(3)install microsoft sql server and connect to database.
+(4)Open sql file from database folder.
+(5)Open .sln file from code folder.
+(6)Change the connection string in code.
+(7)Run the project.
